@@ -96,7 +96,7 @@ task-cli --help
 
 ## Contributions
 
-Contributions are welcome. You can open an issue or submit a pull request on the [GitHub repository](https://github.com/Solideomyers/task-tracker-cli.git).
+Contributions are welcome. You can open an issue or submit a pull request on the [GitHub repository](https://github.com/Solideomyers/task-tracker-cli).
 
 ## Contact
 
